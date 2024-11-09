@@ -1,5 +1,11 @@
-# OO code using turtle graphics
-- From the starting code, polygon_art.py, you are to write an OO program that generates different pieces of art works
-- Fork, then, clone this repo
-- Read the instructions given in the course's Google Classroom and start coding
-- Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+# How to run
+1. Click run
+2. Enter number of pattern of art work you would like to see
+3. Wait and watch the artwork
+
+#How it is coded
+There are 2 classes which are CreateArt and CreatePolygon to create each polygon seperately.
+In main part thr program only ask for pattern and create a CreateArt object.
+
+#Bug
+You cannot misstype yur choice because program only have an output when the input is between 1 and 9
